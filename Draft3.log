@@ -1,5 +1,5 @@
 LTspice 26.0.2 for Windows
-Circuit: C:\Users\Hzs\Documents\LTspice\Draft3.net
+Circuit: C:\Users\<username>\Documents\LTspice\Draft3.net
 Start Time: Fri Jun  5 18:50:45 2026
 solver = Normal
 Maximum thread count: 32
@@ -20,6 +20,6 @@ Direct Newton iteration succeeded in finding operating point.
 Total elapsed time: 0.141 seconds.
 
 Files loaded:
-C:\Users\Hzs\Documents\LTspice\Draft3.net
-C:\Users\Hzs\Documents\LTspice\models_gfmcu.lib
+C:\Users\<username>\Documents\LTspice\Draft3.net
+C:\Users\<username>\Documents\LTspice\models_gfmcu.lib
 
