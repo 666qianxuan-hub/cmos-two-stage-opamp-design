@@ -1,0 +1,21 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 0 16 0 0
+LINE Normal -12 24 0 16
+LINE Normal 12 40 -12 24
+LINE Normal -12 56 12 40
+LINE Normal 12 72 -12 56
+LINE Normal 0 80 12 72
+LINE Normal 0 96 0 80
+WINDOW 3 16 64 Left 2
+WINDOW 0 16 16 Left 2
+WINDOW 1 16 40 Left 2
+SYMATTR Value -21
+SYMATTR Prefix R
+SYMATTR ModelFile dmodels_analog.lib
+PIN 0 0 NONE 8
+PINATTR PinName ND
+PINATTR SpiceOrder 1
+PIN 0 96 NONE 8
+PINATTR PinName NS
+PINATTR SpiceOrder 2

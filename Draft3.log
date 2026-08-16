@@ -1,0 +1,25 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Hzs\Documents\LTspice\Draft3.net
+Start Time: Fri Jun  5 18:50:45 2026
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.141 seconds.
+
+Files loaded:
+C:\Users\Hzs\Documents\LTspice\Draft3.net
+C:\Users\Hzs\Documents\LTspice\models_gfmcu.lib
+

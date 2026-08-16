@@ -1,0 +1,19 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\river\AppData\Local\LTspice\PDK\LTS_GFMCU\LTS_GFMCU\axl_first.net
+Start Time: Mon Nov 24 18:21:45 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.50000000e+00
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.087 seconds.
+
+Files loaded:
+C:\Users\river\AppData\Local\LTspice\PDK\LTS_GFMCU\LTS_GFMCU\axl_first.net
+C:\Users\river\AppData\Local\LTspice\PDK\LTS_GFMCU\LTS_GFMCU\models_gfmcu.lib
+

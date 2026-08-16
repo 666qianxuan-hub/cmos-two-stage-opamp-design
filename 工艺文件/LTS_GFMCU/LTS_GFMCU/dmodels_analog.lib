@@ -1,0 +1,20 @@
+* *********************************
+* This file : /Users/%USERNAME%/DD/LTS/dmodels/dmodels_analog.lib
+* *********************************
+
+.subckt gregaabox Y A B wp=2.0 lp=0.2 nf=1 mp=1
+
+
+.parameter wval='wp*nf*1.0e-6'
+.parameter lval='lp*1.0e-6'
+.parameter mval='mp'
+
+
+ra A  Y   {100 * 2e-6/wval}
+rb A  Y   {100 * 2e-6/wval}
+
+.ends
+
+
+* ***************************************
+
